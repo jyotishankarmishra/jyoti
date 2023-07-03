@@ -29,4 +29,4 @@ _You **can** combine them_
 ![This is an alt text.]( https://avatars.githubusercontent.com/u/131436?s=280&v=4 "This is a sample image.")
 
 ## link
-[![This is an alt text.]( https://avatars.githubusercontent.com/u/131436?s=280&v=4 "This is a sample image.")](https://markdownlivepreview.com/)
+[![This is an alt text.]( https://avatars.githubusercontent.com/u/131436?s=280&v=4 "This is a sample image.")](https://www.w3schools.com/)

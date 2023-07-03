@@ -43,3 +43,35 @@ _You **can** combine them_
 | left foo      | 101     |
 | left bar      | 102     |
 | left baz      | 103     |
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+## Inline code
+
+This web site is using `markedjs/marked`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

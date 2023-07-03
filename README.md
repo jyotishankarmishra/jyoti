@@ -30,3 +30,9 @@ _You **can** combine them_
 
 ## link
 [![This is an alt text.]( https://avatars.githubusercontent.com/u/131436?s=280&v=4 "This is a sample image.")](https://www.w3schools.com/)
+
+## Blockquotes
+
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

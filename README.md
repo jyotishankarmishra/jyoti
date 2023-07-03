@@ -26,7 +26,7 @@ _You **can** combine them_
   1. Item 3b
 
 ## Images
-![This is an alt text.]( https://avatars.githubusercontent.com/u/131436?s=280&v=4 "This is a sample image.")
+![This is an alt text.]( https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png  "This is a sample image.")
 
 ## link
 [![This is an alt text.]( https://avatars.githubusercontent.com/u/131436?s=280&v=4 "This is a sample image.")](https://www.w3schools.com/)

@@ -13,6 +13,8 @@ _This will also be italic_
 **This text will be bold**  
 __This will also be bold__
 
+**This text is bold** 
+
 _You **can** combine them_
 ### Unordered
 
